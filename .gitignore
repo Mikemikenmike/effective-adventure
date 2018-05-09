@@ -1,3 +1,12 @@
+#### OUR IGNORES
+
+*.idea
+
+
+
+
+#### DEFAULT UNITY IGNORE
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
