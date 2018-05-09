@@ -10,13 +10,27 @@ Maxx, if you get around to the summary of what we were discussing, you can throw
 ### Table of Contents
 1. The idea
 2. Assumptions and Scope
-2. Instructions for cloning this repository
+2. Sort of what Git and Github are and how to get this repository
 
 ## The Idea
+* Focus on simple block primitives. For example, instead of railroad tracks being a block, they are simply made by laying parallel rows of generic blocks.
+* Focus on making the world come alive through utilization/development of land by NPCs that emulate and mutate the player's designs.
 
 ## Assumptions and Scope
 
-## Instructions for cloning this repository
+##### Environment
+Building for Windows on Windows (Definitely need to discuss this more).  
+Unity 2018.1 [Download](https://store.unity.com/) [Blog](https://blogs.unity3d.com/2018/05/02/2018-1-is-now-available/)  
+Rider IDE [Download]([Now download Rider](https://www.jetbrains.com/rider/))
+
+##### Game
+Survival game.  
+World will be an infinitely and procedurally generated voxel plane with harvest-able resources.  
+Multiplayer first architecture (whatever this means).  
+
+
+
+## Sort of what Git and Github are and how to get this repository
 
 Welcome to github. This will be a brief explanation of what this website and git itself is for as I understand it. Smarter people might have better explanations.
 
@@ -58,6 +72,8 @@ This folder is a git initialized folder, meaning that the commands listed above 
 ### [Now download Rider](https://www.jetbrains.com/rider/)
 
 This IDE is designed for C# and has native Unity support. Visual Studio would be its competitor I guess. 
+
+During setup, choose the IDEA Default Keymap if you want Jake or I to be able to help with that. Feel free to choose your aesthetic. Just use the default modules or whatever when they ask.
 
 I'm not including the rider section to tell you about the benefits of the IDE, but to let you know that it has amazing Git integration. With Rider, you won't have to use the command line to commit, push, pull, merge, add, delete, revert, branch, checkout, fork, rebase, rebuild, commute, eat, sleep, socialize, or love. The IDE does it all with _buttons_ and shows you _pictures._ Highly recommend. 
 
